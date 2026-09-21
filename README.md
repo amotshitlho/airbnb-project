@@ -3,7 +3,7 @@
 ## Live Demo
 
 - Local dev app: http://localhost:5173/
-- Netlify deployment link: https://your-netlify-app-name.netlify.app
+- Netlify deployment link: https://amotshitlhoair.netlify.app
 
 ## GitHub Repository
 
