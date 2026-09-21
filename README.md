@@ -3,11 +3,11 @@
 ## Live Demo
 
 - Local dev app: http://localhost:5173/
-- Deployment link: add your public hosting URL here (for example Vercel or Netlify)
+- Netlify deployment link: https://your-netlify-app-name.netlify.app
 
 ## GitHub Repository
 
-- GitHub link: https://github.com/your-username/airbnb-project
+- GitHub link: https://github.com/amotshitlho/airbnb-project
 
 ## Project Overview
 
